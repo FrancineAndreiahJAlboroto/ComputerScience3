@@ -1,2 +1,2 @@
-- This is a simple filefor my first GitHub project in CS3
+- This is a simple file for my first GitHub project in CS3
 - 
